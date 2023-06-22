@@ -3,6 +3,9 @@ title: "Alfred's website"
 output: html_document
 date: "2023-06-22"
 theme: spacelab 
+toc: true
+toc_depth: 3
+toc_float: true
 ---
 
 ```{r setup, include=FALSE}
@@ -27,18 +30,18 @@ I am a certified data scientist, project manager and soil scientist. Now that yo
 alfredgagariga@gmail.com
 08161766204
 
-```{r cars}
-summary(cars)
-```
+
+
+
+
 
 ## Education
 
 
 
+
+
+
+
 ## Experience 
 
-```{r pressure, echo=FALSE}
-plot(pressure)
-```
-
-Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
